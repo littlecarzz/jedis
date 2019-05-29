@@ -1,19 +1,33 @@
-String类型:
+###### String类型:
 set key value   //插入字符串
+
 get key //查找value
+
 getset key value    //查找返回value并赋值
+
 mset key1 value1 key2 vlaue2 key3 value3   //多键值对数据保存，在保证原子性操作下
+
 mget key1 key2  //查找多个value
+
 setnx key value //表示当一个指定的 key 不存在时，设置这个 key 指定的 value，如果存在，则设置不成功
+
 setex key time(s) value //设置key/value的有效期
+
 msetnx key1 value1 key2 value2 key3 value3
 //表示在单原子操作性的情况下，keys 不存在的前提下插入多个 values 值，如果存在其中一个keys 则插入失败
+
 incr key //表示对给定 key 的 value 进行递增的操作
+
 incrby key 5    //表示对给定 key 的 value 进行指定步长的递增操作
+
 decr key    //表示对给定 key 的 value 进行递减的操作
+
 decrby key 5    //表示对给定 key 的 value 进行指定步长的递减操作
+
 append key value //追加，key不存在则新建
+
 substr key 0 4  //表示返回指定 key 的 value 的部分字符串
+
 list类型：
 lpush key c b a        //从左向右插入cba
 rpush james c b a     //从右向左插入cba, 返回值3
