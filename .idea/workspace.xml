@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd3d1480-1bda-491a-860d-2fdbdd9edc99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/常用redis指令" beforeDir="false" afterPath="$PROJECT_DIR$/常用redis指令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用redis指令.md" beforeDir="false" afterPath="$PROJECT_DIR$/常用redis指令.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/常用redis指令.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-62">
-                <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <first_editor relative-caret-position="5549">
+                <caret line="179" column="36" lean-forward="true" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -334,7 +334,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559010346327</updated>
       <workItem from="1559010348256" duration="12909000" />
-      <workItem from="1559096578754" duration="11879000" />
+      <workItem from="1559096578754" duration="12139000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1559032926822</created>
@@ -350,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559112765012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1559121238007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559121238007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24788000" />
+    <option name="totallyTimeSpent" value="25048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,8 +583,8 @@
     <entry file="file://$PROJECT_DIR$/常用redis指令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-62">
-            <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <first_editor relative-caret-position="5549">
+            <caret line="179" column="36" lean-forward="true" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
